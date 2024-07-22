@@ -2,6 +2,6 @@ BasicGame
     SpriteSet    
         PLAYER > MovingAvatar
     TerminationSet
-        Timeout(501)
+        Timeout(500)
     InteractionSet
     LevelMapping
